@@ -63,7 +63,7 @@ El proyecto logró:
 
 ## 🎓 Contexto Académico
 
-Este proyecto fue desarrollado como Trabajo Fin de Máster del **Máster en Inteligencia Artificial y Bases de Datos** de la Universidad de Valencia, obteniendo una calificación de **8.4/10**.
+Este proyecto fue desarrollado como Trabajo Fin de Máster del **Máster en Inteligencia Artificial y Bases de Datos** de la Universidad Católica de Valladolid, obteniendo una calificación de **8.4/10**.
 
 ## 👤 Autor
 
