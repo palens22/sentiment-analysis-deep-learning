@@ -19,12 +19,12 @@ Sistema de análisis de sentimiento aplicado a reviews de series de anime, compa
 ## 🗂️ Estructura del Proyecto
 ```
 notebooks/
-├── 01_scraping.ipynb           # Web scraping de reviews con rate limiting ético
-├── 02_preprocessing.ipynb       # Limpieza y preprocesamiento de datos
-├── 03_cnn_model.ipynb          # Implementación y entrenamiento de CNN
-├── 04_lstm_model.ipynb         # Implementación y entrenamiento de LSTM
-├── 05_transformer_model.ipynb  # Fine-tuning de DistilBERT
-└── 06_ensemble_results.ipynb   # Modelos ensemble y análisis de resultados
+├── Scraping_MyAnimeList.ipynb           # Web scraping de reviews con rate limiting ético
+├── Cleaning_Data.ipynb      # Limpieza y preprocesamiento de datos
+├── TFM_CNN_v2.ipynb         # Implementación y entrenamiento de CNN
+├── TFM_LTSM_v2.ipynb         # Implementación y entrenamiento de LSTM
+├── TFM_Transformer_v2.ipynb  # Fine-tuning de DistilBERT
+└── TFM_Ensemble.ipynb   # Modelos ensemble y análisis de resultados
 ```
 
 ## 🛠️ Tecnologías Utilizadas
